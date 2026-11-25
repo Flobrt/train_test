@@ -1,0 +1,9 @@
+route_id,line_name,train_type
+L01,TGV Paris-Marseille,TGV
+L02,TGV Paris-Bordeaux,TGV
+L03,TGV Paris-Lille,TGV
+L04,TGV Paris-Strasbourg,TGV
+L05,TER Pays de la Loire,TER
+L06,TER Bretagne,TER
+L07,Intercités Toulouse-Bordeaux,INTERCITES
+L08,TER Lyon-Montpellier,TER

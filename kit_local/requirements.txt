@@ -1,0 +1,6 @@
+jupyterlab>=4.0
+pyspark==3.5.3
+google-genai
+requests
+anthropic>=0.40  # optionnel
+pandas

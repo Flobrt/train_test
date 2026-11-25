@@ -1,0 +1,22 @@
+station_id,station_name,lat,lon,city
+ST000,Paris Gare de Lyon,48.8443,2.3735,Paris
+ST001,Paris Montparnasse,48.8412,2.3203,Paris
+ST002,Paris Gare du Nord,48.8809,2.3553,Paris
+ST003,Paris Est,,,Paris
+ST004,Lyon Part-Dieu,45.7606,4.859,Lyon
+ST005,Marseille Saint-Charles,43.3028,5.3806,Marseille
+ST006,Bordeaux Saint-Jean,44.8258,-0.5558,Bordeaux
+ST007,Lille Flandres,3.0705,50.636,Lille
+ST008,Strasbourg,48.585,7.734,Strasbourg
+ST009,Nantes,,,Nantes
+ST010,Rennes,-1.672,48.1035,Rennes
+ST011,Toulouse Matabiau,43.6111,1.4536,Toulouse
+ST012,Nice Ville,43.7048,7.2619,Nice
+ST013,Montpellier Saint-Roch,43.6042,3.8808,Montpellier
+ST014,Avignon TGV,,,Avignon
+ST015,Le Mans,47.996,0.1933,Le Mans
+ST016,Tours,47.3893,0.6937,Tours
+ST017,Angers Saint-Laud,47.4651,-0.5568,Angers
+ST101,PARIS GARE DE LYON,48.8443,2.3735,Paris
+ST104,Lyon Part Dieu ,45.7606,4.859,Lyon
+ST105,marseille st-charles,43.3028,5.3806,Marseille
